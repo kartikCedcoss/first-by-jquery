@@ -1,0 +1,31 @@
+.div1{
+    margin:3em 1em 4em 4em ;
+    
+}
+#input1{
+    padding: 1em 4em 1em 2em ;
+    border-width: 2px;
+    border-radius: 30px;
+}
+#input2{
+    padding: 1em 4em 1em 2em ;
+    border-width: 2px;
+    border-radius: 30px;
+}
+.div2{
+    margin:3em 1em 4em 4em ;
+}
+.maindiv{
+    margin:2em 30em;
+}
+.convert{
+    float: right;
+    padding: 1em 4em;
+    border-width: 10px;
+    border-radius: 50px;
+
+
+}
+html{
+    background: rgb(182, 94, 94);
+}
